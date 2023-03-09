@@ -74,11 +74,10 @@
 }
 
 .bloco-texto h2 {
-    text-align: center;
+    text-align: left;
     top: 20;
-    border-bottom: 2px var(--cor-primaria) solid;
 }
 .bloco-texto p {
-    text-align: center;
+    text-align: left;
     line-height: 1.5;
 }
