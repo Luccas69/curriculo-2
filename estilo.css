@@ -74,10 +74,21 @@
 }
 
 .bloco-texto h2 {
-    text-align: left;
-    top: 20;
+    width: 117px;
+    height: 30px;
+    left: 121px;
+    top: 605px;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: var(--texto-primario)
 }
 .bloco-texto p {
-    text-align: left;
-    line-height: 1.5;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;    
 }
